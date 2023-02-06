@@ -1,0 +1,5 @@
+Cloth Mask
+Surgical Mask
+FFP2 Mask
+No Mask
+Incorrecly worn Mask
